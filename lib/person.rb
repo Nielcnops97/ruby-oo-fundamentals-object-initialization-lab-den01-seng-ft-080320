@@ -6,5 +6,7 @@ class Person
         @name = name
     end
     
-    self
+    def self.all
+      self << all
+    end
 end
