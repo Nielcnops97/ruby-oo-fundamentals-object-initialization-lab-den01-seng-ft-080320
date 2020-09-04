@@ -4,5 +4,5 @@ class Dog
     @name = name
     @breed = breed
   end
-  breed = breed.new("Mutt")
+  Breed = breed.new("Mutt")
 end
