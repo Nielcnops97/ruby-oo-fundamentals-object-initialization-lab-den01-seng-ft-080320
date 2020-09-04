@@ -1,4 +1,4 @@
-attr_accessor :name
+#attr_accessor :name
 
 class Person
 
@@ -6,7 +6,5 @@ class Person
         @name = name
     end
     
-    def self.all
-      self << all
-    end
+    
 end
