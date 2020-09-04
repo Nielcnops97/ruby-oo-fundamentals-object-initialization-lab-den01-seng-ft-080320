@@ -3,5 +3,4 @@ lass Dog
         @name = name
         @breed = breed
       end
-    end
-  end
+ end
